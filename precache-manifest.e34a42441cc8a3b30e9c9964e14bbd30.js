@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5e2e49ef5b8b0a9d37e20c5d8e3a178",
+    "revision": "aeb108aa7001aa5fd526e5553d750577",
     "url": "/kidszone/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kidszone/static/js/2.c368f0f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e28c0bec630b8eab1401",
-    "url": "/kidszone/static/js/main.5cdfb061.chunk.js"
+    "revision": "279ea4c66148ba1d7a33",
+    "url": "/kidszone/static/js/main.e674feaf.chunk.js"
   },
   {
     "revision": "9cf3a7ff011a44df23dd",
