@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/kidszone/static/js/main.5cdfb061.chunk.js",
+    "main.js.map": "/kidszone/static/js/main.5cdfb061.chunk.js.map",
+    "runtime-main.js": "/kidszone/static/js/runtime-main.7d49f120.js",
+    "runtime-main.js.map": "/kidszone/static/js/runtime-main.7d49f120.js.map",
+    "static/js/2.c368f0f3.chunk.js": "/kidszone/static/js/2.c368f0f3.chunk.js",
+    "static/js/2.c368f0f3.chunk.js.map": "/kidszone/static/js/2.c368f0f3.chunk.js.map",
+    "index.html": "/kidszone/index.html",
+    "precache-manifest.6e87a9d69da4a090dee4a4263ddc5391.js": "/kidszone/precache-manifest.6e87a9d69da4a090dee4a4263ddc5391.js",
+    "service-worker.js": "/kidszone/service-worker.js",
+    "static/js/2.c368f0f3.chunk.js.LICENSE.txt": "/kidszone/static/js/2.c368f0f3.chunk.js.LICENSE.txt",
+    "static/media/kidZone_logo.png": "/kidszone/static/media/kidZone_logo.1b91038d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d49f120.js",
+    "static/js/2.c368f0f3.chunk.js",
+    "static/js/main.5cdfb061.chunk.js"
+  ]
+}
